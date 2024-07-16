@@ -24,8 +24,8 @@ To use PawKit, follow these simple steps:
 
 1. **Create a `.Paw` Package**:
     - Organize your application files and metadata into a directory structure.
-    - Compress the directory into a `.zip` file.
-    - Rename the `.zip` file to have a `.Paw` extension.
+    - Compress the directory into a NeoAppleArchive file.
+    - Rename the file to have a `.Paw` extension.
 
 2. **Distribute the Package**:
     - Share the `.Paw` package with your users.
