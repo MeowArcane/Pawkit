@@ -8,6 +8,7 @@
     "website": "https://example.com",
     "license": "MIT",
     "Github": "https://example.com",
+    "OS": "MacOS",
     "deletePaths": [
             "~/Documents/log.txt",
             "~/Library/Application Support/MyApp/temp.zip"
