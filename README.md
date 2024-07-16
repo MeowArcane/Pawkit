@@ -33,6 +33,19 @@ To use PawKit, follow these simple steps:
 3. **Run the Installer**:
     - Users can execute the installer script provided by PawKit to install the application.
 
+## Commands
+
+PawKit provides a variety of commands to manage applications and repositories.
+
+- `install <path_to_paw>` - Install an package from a `.Paw` package.
+- `install <name_of_paw>` - Install an package from a repo package.
+- `delete <path_to_metadata_json>` - Uninstall an package and remove its files.
+- `addrepo <url_to_repo.json>` - Add a repository to the list of available repositories.
+- `removerepo <repository_name>` - Remove a repository from the list.
+- `update <app_name>` - Update a specific package to its latest version.
+- `update <repo_name>` - Update a specific repo to its latest version.
+- `update all` - Update all installed repos and packages to their latest versions.
+
 ## Example
 
 Here is an example of how to structure your `.Paw` package:
