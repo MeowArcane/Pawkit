@@ -57,10 +57,11 @@ MyApp.Paw
 │   ├── icon.png
 │   └── bg.jpg
 └── files
-    ├── @Documents
-    │   └── example.txt
-    └── @ApplicationSupport/MyApp
-        └── config.json
+    └── @macos
+        ├── @Documents
+        │   └── example.txt
+        └── @ApplicationSupport/MyApp
+            └── config.json
 ```
 
 ## Contributing
