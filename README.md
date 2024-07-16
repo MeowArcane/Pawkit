@@ -39,7 +39,7 @@ PawKit provides a variety of commands to manage applications and repositories.
 
 - `install <path_to_paw>` - Install an package from a `.Paw` package.
 - `install <name_of_paw>` - Install an package from a repo package.
-- `delete <path_to_metadata_json>` - Uninstall an package and remove its files.
+- `delete <name of paw>` - Uninstall package using the cached metadata
 - `addrepo <url_to_repo.json>` - Add a repository to the list of available repositories.
 - `removerepo <repository_name>` - Remove a repository from the list.
 - `update <app_name>` - Update a specific package to its latest version.
