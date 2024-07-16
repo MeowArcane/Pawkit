@@ -40,6 +40,7 @@ Here is an example of how to structure your `.Paw` package:
 ```
 MyApp.Paw
 ├── metadata
+│   ├── data.json
 │   ├── icon.png
 │   └── bg.jpg
 └── files
