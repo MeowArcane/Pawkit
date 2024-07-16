@@ -53,3 +53,10 @@ MyApp.Paw
 ## Contributing
 
 We welcome contributions to PawKit! If you have suggestions for improvements or have found bugs, please open an issue or submit a pull request.
+
+## ToDo
+- **Move to C**
+
+## Ideas
+- **Repos**
+
