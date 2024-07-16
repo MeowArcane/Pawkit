@@ -1,0 +1,11 @@
+{
+    "appName": "MyApp",
+    "version": "1.0.0",
+    "icon": "icon.png",
+    "background": "bg.jpg",
+    "author": "Your Name",
+    "description": "MyApp is a sample application",
+    "website": "https://example.com",
+    "license": "MIT",
+    "Github": "https://example.com",
+}
