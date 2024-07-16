@@ -56,7 +56,3 @@ We welcome contributions to PawKit! If you have suggestions for improvements or 
 
 ## ToDo
 - **Move to C**
-
-## Ideas
-- **Repos**
-
