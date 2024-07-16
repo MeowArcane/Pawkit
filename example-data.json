@@ -8,4 +8,12 @@
     "website": "https://example.com",
     "license": "MIT",
     "Github": "https://example.com",
+    "deletePaths": {
+        "~/Documents": [
+            "~/Documents/log.txt"
+        ],
+        "~/Library/Application Support/MyApp": [
+            "~/Library/Application Support/MyApp/temp.zip"
+        ]
+    }
 }
