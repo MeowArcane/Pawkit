@@ -1,6 +1,6 @@
 # PawKit
 
-PawKit is a streamlined macOS application installer framework that simplifies the installation process for developers and users. By leveraging `.Paw` packages, PawKit provides a user-friendly and efficient method for distributing and installing macOS applications.
+PawKit is a streamlined application and package installer framework that simplifies the installation process for developers and users. By leveraging `.Paw` packages, PawKit provides a user-friendly and efficient method for distributing and installing applications.
 
 ## Features
 
@@ -35,7 +35,7 @@ To use PawKit, follow these simple steps:
 
 ## Commands
 
-PawKit provides a variety of commands to manage applications and repositories.
+PawKit provides a variety of commands to manage packages, applications and repositories.
 
 - `install <path_to_paw>` - Install an package from a `.Paw` package.
 - `install <name_of_paw>` - Install an package from a repo package.
@@ -66,6 +66,3 @@ MyApp.Paw
 ## Contributing
 
 We welcome contributions to PawKit! If you have suggestions for improvements or have found bugs, please open an issue or submit a pull request.
-
-## ToDo
-- **Move to C**
